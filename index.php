@@ -55,8 +55,6 @@
 				</li>
 				<li><b>Bachelors in Applied Computing </b>	    Aug 2013- June 2017
 					CT Group of Institution, India
-
-
 				</li>
 			</ul>
 			             <h2>Work Experience</h2>
@@ -81,10 +79,10 @@ Language of Implementation: Wordpress/ altervista
            <footer class="main_footer">
         <div class="left_footer">
              <p class="footer-links">
-                          <a href="index.html"><u>Home</u></a>
-                <a href="services.html"><u>Services</u></a>
-                <a href="portfolio.html"><u>Portfolio</u></a>
-                <a href="contact.html"><u>Contact Us</u></a>
+                <a href="index.php"><u>Home</u></a>
+                <a href="services.php"><u>Services</u></a>
+                <a href="portfolio.php"><u>Portfolio</u></a>
+                <a href="contact.php"><u>Contact Us</u></a>
 			</p>
         </div>
 
