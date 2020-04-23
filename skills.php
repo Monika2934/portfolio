@@ -90,7 +90,7 @@
 			</div>
 	<div class="right_footer">
 				<p class="footer_about">Social Media:</p>
-				<a href="https://www.facebook.com/monika.bhatti.927"><img class="thumbnail" src="images/facebook.gif"></a>
+				<a href="https://in.pinterest.com/monikabhatti703/"><img class="thumbnail" src="images/pinterest.png" alt="pinterest"></a>
 				<a href="https://twitter.com/monikabhatti226"><img class="thumbnail" src="images/Twitter.gif"></a>
 				<a href="https://www.linkedin.com/in/monika-monika-bb0302179/"><img class="thumbnail" src="images/linkedin.jpg"></a>
 			</div>
