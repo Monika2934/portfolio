@@ -41,7 +41,7 @@
               
 				<div class="row">
         <div class="side">
-            <div class=""> <img class="img" src="images/IMG_0059.JPG" alt="myphoto">
+            <div class=""> <img class="img" src="images/myphoto.JPG" alt="myphoto">
       </div>
         </div>
         <div class="side2">
