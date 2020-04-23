@@ -12,8 +12,8 @@
         <link rel="stylesheet" href="css/main.css">
 		<meta name="keywords" content="web developer, web designer, PHP Development, Responsive Web Design, Android Developer">
 		<meta name="description" content="I am Monika. I am a web designer and web developer. I worked on diverse projects in various technologies">
-		<link rel="shortlink" href="">
-		<link rel="canonical" href="">
+		<link rel="shortlink" href="https://monikabhatti.herokuapp.com/">
+		<link rel="canonical" href="https://monikabhatti.herokuapp.com/">
     </head>
     <body>
         <div id="wrapper">
