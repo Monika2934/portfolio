@@ -7,8 +7,8 @@
 	<meta name="keywords" content="web developer, web designer, portfolio web developer, wordpress, data visuliation ">
 	<meta name="description" content="I am Monika. I am a web designer and web developer.I worked on diverse projects in various technologies">
 	<link rel="stylesheet" href="css/main.css">
-	<link rel="shortlink" href="">
-	<link rel="canonical" href="">
+	<link rel="shortlink" href="https://monikabhatti.herokuapp.com/">
+	<link rel="canonical" href="https://monikabhatti.herokuapp.com/">
 </head>
 <body>
 	<div id="wrapper">
@@ -83,7 +83,7 @@
 			<div class="left_footer">
 				<p class="footer-links">
 					<a href="index.php"><u>Home</u></a>
-                <a href="services.php"><u>Services</u></a>
+                <a href="skills.php"><u>Skills</u></a>
                 <a href="portfolio.php"><u>Portfolio</u></a>
                 <a href="contact.php"><u>Contact Us</u></a>
 				</p>
