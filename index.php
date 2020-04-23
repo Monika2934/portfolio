@@ -80,7 +80,7 @@ Language of Implementation: Wordpress/ altervista
         <div class="left_footer">
              <p class="footer-links">
                 <a href="index.php"><u>Home</u></a>
-                <a href="services.php"><u>Services</u></a>
+                <a href="skills.php"><u>Services</u></a>
                 <a href="portfolio.php"><u>Portfolio</u></a>
                 <a href="contact.php"><u>Contact Us</u></a>
 			</p>
